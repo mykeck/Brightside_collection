@@ -15,13 +15,15 @@
         background-color: #e8ccd7;
         display:flex;
         width: 100%;
-        justify-content: space-between
+        justify-content: space-between;
+        font-size:large;
         
       }
       #collection2{
         background-color:#e8ccd7;
         display:flex;
         width: 100%;
+        font-size: large;
         
       }
 
@@ -118,18 +120,18 @@ h3 {
   
   #about{
     background-color: #f4c2c2;
-    display: flex;
     margin: 5px;
-    flex-direction: column;
     font-family: 'optima' serif;
+    font-size: large;
+    padding-bottom: 10px;
   }
 
   #contacts {
     background-color: #f4c2c2;
-    display: flex;
     margin: 5px;
-    flex-direction: column;
     font-family: 'optima' serif;
+    font-size: large;
+    padding-bottom: 10px;
   }
 
 
